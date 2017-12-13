@@ -97,6 +97,7 @@ public class DescriptionFragment extends Fragment {
                             initQueryFirebase();
                         }
                     }
+                    
 
                     @Override
                     public void onCancelled(DatabaseError databaseError) {
